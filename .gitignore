@@ -1,0 +1,10 @@
+.venv/
+venv/
+_pycache_/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+mlruns/
+mlartifacts/
+models/*.pkl
+notebooks(alruns/
