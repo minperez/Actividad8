@@ -6,7 +6,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copiar el código fuente
-COPY FASE_II.ipynb /
+COPY Actividad8.ipynb /
 
 # Exponer el puerto de la API
 EXPOSE 8000
